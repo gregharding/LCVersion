@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+
+# project
+/[Bb]in/*
+/[Oo]bj/
+/[Tt]emp/
+/*.userprefs
+/*.pidb
+/.vs/
